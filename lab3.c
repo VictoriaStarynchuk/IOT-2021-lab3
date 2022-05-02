@@ -28,7 +28,7 @@ for (i = 0; i < 5; i++)
  {
     scanf_s("%d", &arrayB[i]);
  }
-printf("\nIntersection of two arrays is : ");
+printf("Intersection of two arrays is : ");
 printIntersection(arrayA, arrayB, 5, 5);
 }
 
